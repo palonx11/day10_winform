@@ -1,0 +1,16 @@
+D:\PonApp\7.2.68\7.2.68\bin\Debug\net8.0-windows\7.2.68.exe
+D:\PonApp\7.2.68\7.2.68\bin\Debug\net8.0-windows\7.2.68.deps.json
+D:\PonApp\7.2.68\7.2.68\bin\Debug\net8.0-windows\7.2.68.runtimeconfig.json
+D:\PonApp\7.2.68\7.2.68\bin\Debug\net8.0-windows\7.2.68.dll
+D:\PonApp\7.2.68\7.2.68\bin\Debug\net8.0-windows\7.2.68.pdb
+D:\PonApp\7.2.68\7.2.68\obj\Debug\net8.0-windows\_7._2._68.Form1.resources
+D:\PonApp\7.2.68\7.2.68\obj\Debug\net8.0-windows\7.2.68.csproj.GenerateResource.cache
+D:\PonApp\7.2.68\7.2.68\obj\Debug\net8.0-windows\7.2.68.GeneratedMSBuildEditorConfig.editorconfig
+D:\PonApp\7.2.68\7.2.68\obj\Debug\net8.0-windows\7.2.68.AssemblyInfoInputs.cache
+D:\PonApp\7.2.68\7.2.68\obj\Debug\net8.0-windows\7.2.68.AssemblyInfo.cs
+D:\PonApp\7.2.68\7.2.68\obj\Debug\net8.0-windows\7.2.68.csproj.CoreCompileInputs.cache
+D:\PonApp\7.2.68\7.2.68\obj\Debug\net8.0-windows\7.2.68.dll
+D:\PonApp\7.2.68\7.2.68\obj\Debug\net8.0-windows\refint\7.2.68.dll
+D:\PonApp\7.2.68\7.2.68\obj\Debug\net8.0-windows\7.2.68.pdb
+D:\PonApp\7.2.68\7.2.68\obj\Debug\net8.0-windows\7.2.68.genruntimeconfig.cache
+D:\PonApp\7.2.68\7.2.68\obj\Debug\net8.0-windows\ref\7.2.68.dll
